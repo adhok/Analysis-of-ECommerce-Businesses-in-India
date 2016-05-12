@@ -7,3 +7,16 @@ activities. Demand for international consumer products (including long-tail item
 authorised distributors and e-commerce offerings.Largest e-commerce companies in India are Flipkart, Snapdeal, Amazon India, Paytm,Zomato and Instamojo.
 
 The e-market is expecting to soar to about $100 Billion by 2020 due to the ever increasing internet subscriptions. This project looks into the palying field of E-Commerce in India by using Tweets . The project encompasses various graphs that determine the way their services have been received.
+Plots of Polarity of Brands
+#Amazon
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/amazon_pol.png)
+#Flipkart
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/flipkart_pol.png)
+#Instamojo
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/instamojo_pol.png)
+#Paytm
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/paytm_pol.png)
+#Zomato
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/zomato_pol.png)
+#Snapdeal
+![alt tag](https://github.com/adhok/Analysis-of-ECommerce-Businesses-in-India/blob/master/snapdeal_pol.png)
